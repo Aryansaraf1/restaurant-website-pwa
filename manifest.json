@@ -1,0 +1,22 @@
+{
+    "name":"Restaurant Website",
+    "short_name":"cooking",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    "scope": ".",
+    "description":"Cooking, also known as cookery or professionally as the culinary arts, is the art, science and craft of using heat to make food more palatable, digestible, nutritious, or safe.",
+    "icons":[
+    {
+    "src":"images/app.png",
+    "sizes":"192x192",
+    "type":"image/png"
+    },
+    {
+    "src":"images/big.png",
+    "sizes":"512x512",
+    "type":"image/png"
+    }
+    ]
+    }
